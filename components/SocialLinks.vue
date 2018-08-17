@@ -13,12 +13,6 @@
         </a>
       </li>
       <li>
-        <a href="https://www.xing.com/profile/Stavros_Liaskos" target="_blank" class="dis-txt fab fa-xing"
-           rel="noopener noreferrer">
-          Xing
-        </a>
-      </li>
-      <li>
         <a href="mailto:hello@stavrosliaskos.com" target="_blank" class="dis-txt fab fas fa-envelope">
           Mail
         </a>
