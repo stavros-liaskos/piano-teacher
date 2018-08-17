@@ -1,0 +1,32 @@
+{
+  "expetiseMainContent": {
+    "title": "My Expertise",
+    "desc": "I've got chops in all phases of the development process."
+  },
+  "expertiseCards": [
+    {
+      "title": "Private Voice Lessons",
+      "img": "private-voice-lessons-real-circle.png"
+    },
+    {
+      "title": "Private Piano Lessons",
+      "img": "private-piano-lessons-circle.png"
+    },
+    {
+      "title": "Online Lessons (Skype)",
+      "img": "online-lessons-circle.png"
+    },
+    {
+      "title": "Audition Preparation",
+      "img": "audition-prep-circle.png"
+    },
+    {
+      "title": "Piano Accompanist",
+      "img": "piano-accompaniment-circle.png"
+    },
+    {
+      "title": "Custom Piano Tracks",
+      "img": "custom-piano-tracks.png"
+    }
+  ]
+}
