@@ -8,18 +8,6 @@
         </a>
       </li>
       <li>
-        <a href="https://bitbucket.org/stavros_liaskos/" target="_blank" class="dis-txt fab fa-bitbucket"
-           rel="noopener noreferrer">
-          Bitbucket
-        </a>
-      </li>
-      <li>
-        <a href="https://codepen.io/stavros-liaskos/#" target="_blank" class="dis-txt fab fa-codepen"
-           rel="noopener noreferrer">
-          Codepen
-        </a>
-      </li>
-      <li>
         <a href="https://www.linkedin.com/in/stavros-liaskos-66166094/" target="_blank" class="dis-txt fab fa-linkedin"
            rel="noopener noreferrer">LinkedIn
         </a>
